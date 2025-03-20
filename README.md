@@ -1,4 +1,7 @@
-Calmaria Spa
+# Calmaria SPA
+
+[![Deploy on Vercel](https://img.shields.io/badge/Vercel-Deployed-success?style=for-the-badge&logo=vercel)](https://calmaria-spa-eta.vercel.app/)
+
 
 Acessibilidade na Web: Projeto acessivel para qualquer tipo de usuário
 

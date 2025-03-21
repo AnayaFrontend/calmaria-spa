@@ -1,5 +1,7 @@
 # Calmaria SPA
 
+![image](https://github.com/user-attachments/assets/4e24511d-8b18-4dd3-b202-2f04413f5ad1)
+
 Acesse o projeto diretamente no Vercel
 
 [![Deploy on Vercel](https://img.shields.io/badge/Vercel-Deployed-success?style=for-the-badge&logo=vercel)](https://calmaria-spa-eta.vercel.app/)
